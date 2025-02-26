@@ -18,8 +18,14 @@
     </header>
 
     <section class="profile">
+        <div class="box">
         <h1>Komang Mada Maha Putra Wilwatikta</h1>
         <p>Mahasiswa Sistem Komputer STIKOM Bali</p>
+        </div>
+        <div class="box">
+        <h1>Komang Mada Maha Putra Wilwatikta</h1>
+        <p>Mahasiswa Sistem Komputer STIKOM Bali</p>
+        </div>
     </section>
 
     <section class="content">
